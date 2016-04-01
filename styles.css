@@ -60,14 +60,14 @@ a:hover {
 
 .buttons {
   text-align: center;
-  margin: 80px 0;
+  margin: 60px 0;
 }
 
 .button {
   color: #fff;
   background-color: #D93F3F;
-  padding: 20px 40px;
-  font-size: 24px;
+  padding: 10px 24px;
+  font-size: 18px;
   font-weight: bold;
   text-decoration: none;
   border-radius: 3px;
