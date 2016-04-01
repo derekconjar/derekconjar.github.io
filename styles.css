@@ -181,9 +181,14 @@ a:hover {
     margin: 0px 14px;
   }
 
+  .popup-enabled {
+    position: relative;
+  }
+
   .popup {
     width: 100%;
     margin-top: 0;
     max-height: 100%;
+    overflow-y: initial;
   }
 }
